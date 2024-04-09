@@ -15,7 +15,7 @@
 
 ### 📖 To Learn
 
-- 🔧 &nbsp; 🐳Docker | Springboot | flask
+- 🔧 &nbsp; 🐳Docker | Springboot | Flask | Django
 
 <br/>
 <a href="https://github.com/Labhahaha">
