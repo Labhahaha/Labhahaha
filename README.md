@@ -2,16 +2,18 @@
 <img align='right' src="https://github.com/electronic-pig/electronic-pig/assets/103497254/77ec236d-96b9-4d49-91dd-5483703eb71d" width="450">
 
 ### 👨🏻 About Me 
+- 🎓 &nbsp; Master student of CV at University of Science and Technology of China (USTC).
 
-- 🎓 &nbsp; Studying software engineering at Sichuan University.
+- 🎓 &nbsp; Undergraduate student of software engineering at Sichuan University (SCU).
 
 - 🤠 &nbsp; Interested at leading-edge and trending technologies .
 
 ### 🛠 Tech Stack
 
+- 🌐 &nbsp; CV | MLLM
+
 - 💻 &nbsp; Python | Java | C++ | C | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Vue
 
 ### 📖 To Learn
 
