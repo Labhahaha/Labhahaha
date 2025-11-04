@@ -14,10 +14,13 @@
 
 - 💻 &nbsp; Python | Java | C++ | C | Go | MySQL
 
+- 🔧 &nbsp; 🐳Docker | Springboot | Flask | Django
+
 
 ### 📖 To Learn
 
-- 🔧 &nbsp; 🐳Docker | Springboot | Flask | Django
+- 💻 &nbsp; MCP | RAG
+
 
 <br/>
 <a href="https://github.com/Labhahaha">
