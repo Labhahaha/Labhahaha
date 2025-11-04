@@ -12,7 +12,7 @@
 
 - 🌐 &nbsp; CV | MLLM
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python | Java | C++ | C | Go | MySQL
 
 
 ### 📖 To Learn
