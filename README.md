@@ -1,5 +1,6 @@
+![](assets/header.svg)
 ## Hi there!👋I'm Labhahaha.
-<img align='right' src="https://github.com/electronic-pig/electronic-pig/assets/103497254/77ec236d-96b9-4d49-91dd-5483703eb71d" width="450">
+<img align='right' src="./assets/image.gif" width="450" alt="image">
 
 ### 👨🏻 About Me 
 - 🎓 &nbsp; Master student of CV at University of Science and Technology of China (USTC).
@@ -33,3 +34,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Labhahaha/Labhahaha/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Labhahaha/Labhahaha/output/github-contribution-grid-snake.svg">
 </picture>
+![](assets/footer.svg)
