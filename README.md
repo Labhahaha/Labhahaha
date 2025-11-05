@@ -13,9 +13,9 @@
 
 - 🌐 &nbsp; CV | MLLM
 
-- 💻 &nbsp; Python | Java | C++ | C | Go | MySQL
+- 💻 &nbsp; Python | Java | C++ | C | Go | Js
 
-- 🔧 &nbsp; 🐳Docker | Springboot | Flask | Django
+- 🔧 &nbsp; 🐳Docker | Springboot | Flask | Django | MySQL
 
 
 ### 📖 To Learn
